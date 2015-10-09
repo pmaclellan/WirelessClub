@@ -27,7 +27,7 @@
 
 // Global variables
 int counter = 0;
-volatile uint8_t state = 3;
+volatile uint8_t state = 1;
 uint16_t hue = 0;
 uint16_t val = 0;
 extern const uint8_t PROGMEM gamma[];
